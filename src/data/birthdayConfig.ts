@@ -116,9 +116,7 @@ export const birthdayConfig: BirthdayConfig = {
 
   /*
    * =====================================================================
-   * THE LOVE LETTER:
-   * Clean English editorial UI / envelope elements, with deep heartfelt
-   * Arabic & English message paragraphs inside the letter content.
+   * THE LOVE LETTER (Romantic & Heartfelt bilingual mix: Arabic & English):
    * =====================================================================
    */
   birthdayMessage: {
@@ -128,13 +126,13 @@ export const birthdayConfig: BirthdayConfig = {
     letterSalutation: "Dearest Sara,",
     dateText: "On Your Special Day",
     paragraphs: [
-      "Happy Birthday, Sara ✨\nكل سنة وإنتي طيبة وبخير ودايماً منورة الدنيا. حبيت أعملك حاجة بسيطة في اليوم ده تفرحك، لأن وجودك بجد بيفرق في كل حاجة حواليكي وبيديها طعم ومعنى ألطف.",
-      "You have this quiet, calming presence that makes everything feel simpler and lighter. وسط زحمة الأيام والدوشة، القعدة معاكي والضحكة التلقائية وطريقتك وإنتي بتحكي بتدّي راحة بال حقيقية مش سهل الواحد يلاقيها. I truly appreciate who you are — your kindness, your genuine heart, and the effortless warmth you bring into my life.",
-      "I didn't want this letter to be full of exaggerated words or clichés, because real feelings don't need noise. كل اللي عايز أقوله إني ممتن جداً لوجودك في حياتي، وممتن لكل اللحظات البسيطة والذكريات اللي عشناها سوا.. Every conversation, every shared laugh, and every quiet moment we've had means more than you probably realize.",
-      "في سنتك الجديدة دي، أتمنى ليكي كل راحة البال، والتوفيق، والنجاح، وأيام هادية ومليانة طمأنينة شبه قلبك. I hope this year brings you all the peace, joy, and gentle happiness you so rightfully deserve. تفضلي دايماً سارة اللي بنحبها، بضحكتك وطاقتك الجميلة."
+      "Happy Birthday, my love ✨\nكل سنة وإنتي حبيبتي، وكل سنة وإنتي أجمل وأغلى نعمة دخلت حياتي. اليوم ده مش بس يوم عيد ميلادك، ده اليوم اللي اتولدت فيه أحلى صدفة وأطيب قلب في الدنيا.. اليوم اللي بسببه حياتي بقى ليها طعم وشكل تاني خالص.",
+      "From the very first moment, you brought something so special into my world. عينيكي لما بتضحك، وصوتك وإنتي بتتكلمي بحماس، ورقتك اللي ملهاش شبه.. كل تفصيلة فيكي بتخليني أحبك أكتر من اليوم اللي قبله. You are not just someone I love; you are my safe place, my comfort, and the sweetest part of every single day.",
+      "I fall in love with you all over again in the quietest, simplest moments. في كل مرة بتبصيلي فيها وتطمنيني، في كل ضحكة من القلب بنضحكها سوا، وفي كل وقت بكون فيه تعبان وبمجرد ما أسمع صوتك الدنيا بتهدى في عيني. بحب حنيتك، وبحب عفويتك، وبحب إنك دايماً إنتي.. وبحب قد إيه قلبي بيطمن وهو جنبك ومعاكي.",
+      "On your special day, I want to promise you that I will always love you, cherish you, and be right by your side through it all. أتمنى ليكي سنة مليانة حب، وسعادة، وكل الأحلام اللي بتتمناها روحك الحلوة تتحقق قدام عينيكي. تفضلي دايماً منورة قلبي، يا حبيبتي وسندي وأجمل ما في أيامي."
     ],
-    closing: "Forever and always yours,",
-    signOff: "Always here for you ♡",
+    closing: "Forever and always in love with you,",
+    signOff: "Yours, with all my heart & soul ♡",
   },
 
   specialThings: {
