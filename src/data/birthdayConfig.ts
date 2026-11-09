@@ -1,4 +1,4 @@
-﻿import { BirthdayConfig } from '../types/birthday';
+import { BirthdayConfig } from '../types/birthday';
 
 export const birthdayConfig: BirthdayConfig = {
   herName: "Sara",
